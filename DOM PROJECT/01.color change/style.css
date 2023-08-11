@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+/* .container{
+    border: 2px solid black;
+    text-align: center;
+    background-color: brown;
+} */
+
+
+.text{
+    color: white;
+    opacity: .7;
+    text-align: center;
+    
+}
+.square{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#white{
+    border: 2px solid rgb(0, 0, 0) !important;
+    background-color:white;
+    width: 100px;
+    height: 100px;
+}
+#red{
+    border: 2px solid rgb(0, 0, 0) !important;
+    border: 3px rgb(81, 180, 242);
+    background-color:red;
+    width: 100px;
+    height: 100px;
+}
+#yellow{
+    border: 2px solid rgb(0, 0, 0) !important;
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+}
+#blue{
+    border: 2px solid rgb(0, 0, 0) !important;
+    background-color:blue;
+    width: 100px;
+    height: 100px;
+}
+#green{
+    border: 2px solid rgb(0, 0, 0) !important;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+
